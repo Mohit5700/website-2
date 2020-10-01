@@ -1,5 +1,6 @@
 # CindyJS web site
 
+Hey,the developers out there! Welcome to my repository.
 This repository contains the sources from which
 [the CindyJS web site](http://cindyjs.org/) is built.
 If there is something wrong with the content on that web site,
